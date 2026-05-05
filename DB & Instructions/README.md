@@ -1,0 +1,49 @@
+Available Features or Functions
+
+  * Student Management;
+  * Subject Management;
+  * Class Room Management;
+  * Exam Management;
+  * Attendance Management;
+  * Teacher Management;
+  * Parents Management;
+  * User Management;
+  * School Notice Distribution;
+  
+Setup Instruction
+
+01. Create new MySQL database 'schoolnew' and import provided schoolnew.sql file.
+02. Put all files and folders in your host's public directory. C: > xxamp > htdocs > paste your complete folder
+
+
+
+Demo Credentials
+
+There are 4 different dashboards
+--------------------------------
+
+Admin dashboard 
+
+admin@gmail.com
+admin
+
+----------------------------------
+
+Teacher dashboard 
+
+tea@gmail.com
+tea
+
+----------------------------------
+
+Student dashboard 
+
+stu@gmail.com
+stu
+
+----------------------------------
+
+Parent dashboard 
+
+par@gmail.com
+par
