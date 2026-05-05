@@ -1,4 +1,4 @@
-# 📚 Library Management System -Java
+# 📚 Student Management System -PHP
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
