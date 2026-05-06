@@ -88,7 +88,7 @@ It replaces manual processes with an efficient, secure, and user-friendly system
 
 - ✔️ Data Flow Diagrams (DFD)
   <p align="center">
-  <img src="screenshots/dfd.png" width="800"/>
+  <img src="screenshots/dfd.png" width="500"/>
 </p>
 - ✔️ ER Diagram
   <p align="center">
