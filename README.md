@@ -92,19 +92,19 @@ It replaces manual processes with an efficient, secure, and user-friendly system
 </p>
 - ✔️ ER Diagram
   <p align="center">
-  <img src="screenshots/er-diagram.png" width="800"/>
+  <img src="screenshots/er-diagram.png" width="500"/>
 </p> 
 - ✔️ Class Diagram
   <p align="center">
-  <img src="screenshots/class-diagram.png" width="800"/>
+  <img src="screenshots/class-diagram.png" width="500"/>
 </p>
 - ✔️ Use Case Diagram  
 <p align="center">
-  <img src="screenshots/usecase.png" width="800"/>
+  <img src="screenshots/usecase.png" width="500"/>
 </p>
 - ✔️ Spiral Model
   <p align="center">
-  <img src="screenshots/spiral-model.png" width="800"/>
+  <img src="screenshots/spiral-model.png" width="500"/>
 </p>
 
 ---
