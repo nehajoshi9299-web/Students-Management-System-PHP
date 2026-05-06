@@ -195,6 +195,7 @@ http://localhost/your-project-folder
 <p align="center">
   <img src="screenshots/attendance-5.png" width="800"/>
 </p>
+
 ---
 
 ### 📝 Exam & Results
@@ -205,6 +206,7 @@ http://localhost/your-project-folder
 <p align="center">
   <img src="screenshots/exam-result.png" width="800"/>
 </p>
+
 ---
 
 ### 📝 Notice
