@@ -214,13 +214,9 @@ http://localhost/your-project-folder
 
 ---
 
-### 📊 Reports
+### 📝 Notice
 <p align="center">
-  <img src="screenshots/reports.png" width="800"/>
+  <img src="screenshots/notice.png" width="800"/>
 </p>
 
 ---
-
-## 📂 How to Add Screenshots
-
-1. Create folder:
