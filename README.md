@@ -147,7 +147,6 @@ http://localhost/your-project-folder
 </p>
 
 ---
----
 
 ### 📅 Parents Management
 <p align="center">
@@ -164,7 +163,6 @@ http://localhost/your-project-folder
 </p>
 
 ---
----
 
 ### 📅 Class Room Management
 <p align="center">
@@ -172,20 +170,41 @@ http://localhost/your-project-folder
 </p>
 
 ---
+
+
+### 📅 Schedule Management
+<p align="center">
+  <img src="screenshots/schedule.png" width="800"/>
+</p>
+
 ---
 
 ### 📅 Attendance Module
 <p align="center">
-  <img src="screenshots/attendance.png" width="800"/>
+  <img src="screenshots/attendance-1.png" width="800"/>
 </p>
-
+<p align="center">
+  <img src="screenshots/attendance-2.png" width="800"/>
+</p>
+<p align="center">
+  <img src="screenshots/attendance-3.png" width="800"/>
+</p>
+<p align="center">
+  <img src="screenshots/attendance-4.png" width="800"/>
+</p>
+<p align="center">
+  <img src="screenshots/attendance-5.png" width="800"/>
+</p>
 ---
 
 ### 📝 Exam & Results
 <p align="center">
-  <img src="screenshots/exam-results.png" width="800"/>
+  <img src="screenshots/exam.png" width="800"/>
 </p>
 
+<p align="center">
+  <img src="screenshots/exam-result.png" width="800"/>
+</p>
 ---
 
 ### 👨‍🏫 Teacher Dashboard
