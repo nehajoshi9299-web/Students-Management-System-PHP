@@ -207,14 +207,14 @@ http://localhost/your-project-folder
 </p>
 ---
 
-### 👨‍🏫 Teacher Dashboard
+### 📝 Notice
 <p align="center">
-  <img src="screenshots/teacher-dashboard.png" width="800"/>
+  <img src="screenshots/notice-1.png" width="800"/>
 </p>
 
 ---
 
-### 📝 User Management
+### 👨‍🏫 User Management
 <p align="center">
   <img src="screenshots/user-management.png" width="800"/>
 </p>
