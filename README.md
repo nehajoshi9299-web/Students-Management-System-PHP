@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A **Student Management System (SMS)** developed to streamline and digitize academic and administrative operations in educational institutions.  
-This project was built as part of the **MCA (IGNOU) final year project**.
+This project was built as part of the **MCA final year project**.
 
 ---
 
