@@ -214,9 +214,9 @@ http://localhost/your-project-folder
 
 ---
 
-### 📝 Notice
+### 📝 User Management
 <p align="center">
-  <img src="screenshots/notice.png" width="800"/>
+  <img src="screenshots/user-management.png" width="800"/>
 </p>
 
 ---
