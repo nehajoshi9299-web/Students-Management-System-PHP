@@ -86,11 +86,26 @@ It replaces manual processes with an efficient, secure, and user-friendly system
 
 ## 📊 System Design
 
-- ✔️ Data Flow Diagrams (DFD)  
-- ✔️ ER Diagram  
-- ✔️ Class Diagram  
+- ✔️ Data Flow Diagrams (DFD)
+  <p align="center">
+  <img src="screenshots/dfd.png" width="800"/>
+</p>
+- ✔️ ER Diagram
+  <p align="center">
+  <img src="screenshots/er-diagram.png" width="800"/>
+</p> 
+- ✔️ Class Diagram
+  <p align="center">
+  <img src="screenshots/class-diagram.png" width="800"/>
+</p>
 - ✔️ Use Case Diagram  
-- ✔️ Spiral Model  
+<p align="center">
+  <img src="screenshots/usecase.png" width="800"/>
+</p>
+- ✔️ Spiral Model
+  <p align="center">
+  <img src="screenshots/spiral-model.png" width="800"/>
+</p>
 
 ---
 
